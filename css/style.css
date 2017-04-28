@@ -15,7 +15,7 @@ header{
 }
 
 .branding {
-	background: url("../images/yosemitelogo.jpg") no-repeat;
+	background: url(" ../images/yosemitelogo.jpg") no-repeat;
 	border-radius: 50%;
 	width: 100px;
 	height: 100px;
